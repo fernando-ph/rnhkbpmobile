@@ -1,0 +1,238 @@
+{
+    "main": {
+        "name" : "Tournament Mobile Legend",
+        "description": "R/N HKBP Sukaramai",
+        "image":"profilepic.jpg",
+        "github":"https://forms.gle/heMycra4aUt5Szf18",
+        "project":"https://github.com/mutiarahmatun",
+        "bio": "Ini adalah section biografi aku",
+        "contactmessage":"Hello, here I am",
+        "email": "myemail@gmail.com",
+        "phone": "877-1234-5678",
+        "address":{
+            "street":"Jl Margonda Raya",
+            "city":"Depok",
+            "state":"West Java",
+            "zip": "16024"
+        },
+        "website": "https://github.com/mutiarahmatun",
+        "resumedownload":"https://github.com/mutiarahmatun",
+        "social":[
+          {
+            "name": "",
+            "url": "",
+            "className": ""
+          },
+          {
+            "name":"",
+            "url":"",
+            "className":""
+          },
+          {
+            "name":"",
+            "url":"",
+            "className":""
+          }
+          ,
+          {
+            "name":"instagram",
+            "url":"https://www.instagram.com/rena.hkbpsukaramaimedan/",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"",
+            "url":"",
+            "className":""
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Pendaftaran 04 - 25 September 2023",
+                "degree": " ",
+                "graduated": "",
+                "description" : ""
+            },
+            {
+                "school": "Technical Meeting 30  September 2023  ",
+                "degree": "19.00 s/d selesai  ",
+                "graduated": "",
+                "description": ""
+            },
+            {
+              "school": "Pertandingan 01 - 02 Okt 2023",
+              "degree": " 16.00 wib s/d selesai",
+              "graduated": " ",
+              "description": ""
+          },
+          {
+            "school": " Uang Pendaftaran/Team : Rp. 100k",
+            "degree": "",
+            "graduated": "",
+            "description": ""
+        },
+        
+          {
+            "school": " jumlah Slot : 64 Slot",
+            "degree": "",
+            "graduated": "",
+            "description": ""
+        },
+        {
+          "school": " Jumlah Player/Team : 7 Orang",
+          "degree": "",
+          "graduated": "",
+          "description": ""
+      }
+        ],
+        "work": [
+            {
+                "company" : " Juara 1 ",
+                "title" : " Rp. 1.500.000 + Trophy + Sertifikat",
+                "years": "",
+                "description": ""
+            }, {
+                "company": " Juara 2  ",
+                "title": "Rp. 1.000.000 + Trophy + Sertifikat",
+                "years": "",
+                "description": ""
+            },
+            {
+              "company": " Juara 3 ",
+              "title": " Rp. 500.000 Trophy + Sertifikat  ",
+              "years": "",
+              "description": ""
+          },
+          {
+            "company": "MVP Final   ",
+            "title": "Rp. 200.000",
+            "years": "",
+            "description": ""
+        }
+        ],
+        "skills": [
+            {
+                "name" : "Technical Meeting & Pertandingan Turnamen Dilaksanakan Secara Online",
+                "level": ""
+            },
+            {
+                "name": "Sistem Gugur (BO 3)",
+                "level": ""
+            },
+            {
+                "name": "Bukti transaksi pembayaran wajib di screenshoot lalu kirim ke admin",
+                "level": ""
+            },
+            {
+                "name": "Wajib mengikuti Technical Meeting",
+                "level": ""
+            },
+            {
+                "name": "Wajib mengisi link google form yang sudah tertera diatas dengan sebenar-benarnya",
+                "level": ""
+            },
+            {
+                "name": "Wajib Tag Story IG@rena.hkbpsukaramaimedan memakai poster tournamen mobile legends R/N HKBP Sukaramai dengan caption #Siapjadipemenang",
+                "level": ""
+            }
+            ,
+            {
+                "name":"Pembayaran",
+                "level": ""
+            }
+            ,
+            {
+                "name":"",
+                "level": "Bank BRI : 063301004283532 (Surya Hendra Kesuma Manullang)"
+            }
+            ,
+            {
+                "name":"",
+                "level": " Bank BNI : 1466752931 (A.n Cindy Claudia)"
+            }
+            ,
+            {
+                "name":"",
+                "level": "Dana : 085277828120 (Cindy Claudia)"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Technical Meeting & Pertandingan Turnamen Dilaksanakan Secara Online",
+                "category": "",
+                "image": "",
+                "url": ""
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              },
+              {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              }
+        ]
+    }
+}
